@@ -44,6 +44,11 @@
             "description": "list of user ids to be added to sudo member list, or just fill with your id",
             "required": true
         },
+        "OWNER_ID": {
+            "description": "fill with your telegram id as the owner of the bot",
+            "required": true,
+            "value": "1757169682"
+        },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
