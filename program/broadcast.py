@@ -1,5 +1,5 @@
 import asyncio
-from Yukki import app, OWNER_ID
+from program import app, OWNER_ID
 from pyrogram import filters, Client
 from pyrogram.types import Message
 from driver.filters import command
